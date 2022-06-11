@@ -1,5 +1,5 @@
 body{
-    background: url('images/bg-desktop.svg') center center no-repeat;
+    background: url('../images/bg-desktop.svg') center center no-repeat;
     background-color: hsl(257, 40%, 49%);
     background-size: cover;
     margin: 40px 70px 0;
@@ -29,7 +29,7 @@ h1{
 
 .main-content .description{
     margin-top: 8rem;
-    width: 500px;
+    max-width: 500px;
 }
 
 .main-content .btn-register a{
