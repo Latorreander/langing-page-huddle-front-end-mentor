@@ -3,6 +3,7 @@ body{
     background-color: hsl(257, 40%, 49%);
     background-size: cover;
     margin: 40px 70px 0;
+    
 }
 
 h1{
@@ -53,7 +54,6 @@ h1{
 .footer{
     display: flex;
     justify-content: flex-end;
-    /* margin-bottom: 20px; */
 }
 
 .footer .social{
